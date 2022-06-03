@@ -20,6 +20,6 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Run .NET tests
-      run: dotnet build Tests.csproj
+      run: dotnet build LaptopShop.sln
     - name: List all new files
       run: ls
