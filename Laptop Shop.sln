@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorMementoDesignPattern", "DecoratorDesignPattern\DecoratorMementoDesignPattern.csproj", "{6FC8D6B0-3286-469B-BB2B-481F2DFCC7B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorMementoDesignPatternTest", "DecoratorMementoDesignPatternTests\DecoratorMementoDesignPatternTest.csproj", "{261C5895-147A-48AB-90BA-DD7374A4A098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC8D6B0-3286-469B-BB2B-481F2DFCC7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC8D6B0-3286-469B-BB2B-481F2DFCC7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC8D6B0-3286-469B-BB2B-481F2DFCC7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC8D6B0-3286-469B-BB2B-481F2DFCC7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261C5895-147A-48AB-90BA-DD7374A4A098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261C5895-147A-48AB-90BA-DD7374A4A098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261C5895-147A-48AB-90BA-DD7374A4A098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261C5895-147A-48AB-90BA-DD7374A4A098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F168559-7E57-4872-81EC-0D87E5484AC6}
+	EndGlobalSection
+EndGlobal
